@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ec061/v1
 canonical_location: https://kanripo.org/bkk/KR3ec061/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 藥性切用
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ec061_001.yaml, hash: 'sha256:9a3f333e6d7caba2ed4027e1f1da899b8322684b5ac34d393000a0ca8e5ea42b'}
+  - {seq: 1, filename: KR3ec061_001.yaml, hash: 'sha256:7bf002ac7c8c38a44003bb5f943db8a4ee40ccb5ca4ce035dfd2d199a38232ac'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ec061_001.markers.yaml, hash: 'sha256:5d90e89451938a8b024a038d5bafcd2aa4cac974fd785c3b50ec503d1bc115a5'}
+  - {seq: 1, role: markers, filename: assets/KR3ec061_001.markers.yaml, hash: 'sha256:7de9d7371d7d8ef3a25590f44050c56f26c070819c501eeca78380a5d94b80ef'}
 table_of_contents:
 - ref:
     seq: 1
@@ -7601,4 +7601,7 @@ table_of_contents:
   label: 人骨
   type: section
   level: 3
-hash: sha256:7135ec13af0a86d108f62c9929ebe834ab68a949ccd354c119777e0315557735
+hash: sha256:eec893a9bbc850400e6e755b71eb2c9a246c5ad4344d09647b892220ad5740c0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
